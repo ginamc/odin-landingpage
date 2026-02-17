@@ -49,12 +49,12 @@ Dark background color
 
 ## Parts of the Landing Page
 
--[] Header
-    - [] Logo
-    - [] 3 nav link items
--[] Hero
--[] Value prop (this is what I'm calling it)
--[] Quote
--[] CTA
--[] Footer
-    - [] Copyright information
+* Header
+    * Logo
+    * 3 nav link items
+* Hero
+* Value prop (this is what I'm calling it)
+* Quote
+* CTA
+* Footer
+    * Copyright information
