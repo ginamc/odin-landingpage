@@ -46,3 +46,15 @@ Dark background color
 - Weight: 300
 - font-size: 36px
 - italcized?
+
+## Parts of the Landing Page
+
+-[] Header
+    - [] Logo
+    - [] 3 nav link items
+-[] Hero
+-[] Value prop (this is what I'm calling it)
+-[] Quote
+-[] CTA
+-[] Footer
+    - [] Copyright information
