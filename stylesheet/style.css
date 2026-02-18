@@ -10,9 +10,13 @@ body {
     padding: 16px; 
 }
 
+.header {
+    font-size: 16px;
+    display: flex;
+}
+
 .footer {
     font-size: 12px;
-    padding: 16px;
     margin-top: 8px;
     display: flex;
     justify-content: center;
