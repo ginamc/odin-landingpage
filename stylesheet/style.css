@@ -2,13 +2,13 @@
 
 body {
     font-family: 'Roboto', monospace;
-    margin: 0 36px;
+    /* margin: 0 36px; */
 }
 
 .topbloc, .footer {
     background-color: #1F2937;
     color: #E5E7EB;
-    padding: 16px; 
+    padding: 16px 56px; 
 }
 
 .header {
@@ -16,6 +16,11 @@ body {
     display: flex;
     align-items: center;
     justify-content:space-between;
+    flex-flow: row wrap;
+}
+
+.maincontent {
+    padding: 16px 56px;
 }
 
 ul {
@@ -29,6 +34,13 @@ ul {
 a {
     text-decoration: none;
     color: #E5E7EB
+}
+
+.fakelogo {
+    font-size:24px;
+    font-family: monospace;
+    font-weight:700
+    
 }
 
 .rectangle {
