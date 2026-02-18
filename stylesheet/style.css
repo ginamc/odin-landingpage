@@ -1,12 +1,19 @@
 /* le styles */
 
 body {
-    font-family: "Roboto", Tahoma, monospace;
+    font-family: 'Roboto', monospace;
+}
+
+.topbloc, .footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 16px; 
 }
 
 .footer {
-    background-color: #1F2937;
-    color: #E5E7EB;
-    font-size: 16px;
+    font-size: 12px;
     padding: 16px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
 }
