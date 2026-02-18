@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', monospace;
+    margin: 0 36px;
 }
 
 .topbloc, .footer {
@@ -13,6 +14,21 @@ body {
 .header {
     font-size: 16px;
     display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB
 }
 
 .footer {
