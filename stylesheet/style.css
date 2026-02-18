@@ -1,0 +1,12 @@
+/* le styles */
+
+body {
+    font-family: "Roboto", Tahoma, monospace;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 16px;
+    padding: 16px;
+}
