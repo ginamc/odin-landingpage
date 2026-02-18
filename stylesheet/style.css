@@ -31,6 +31,15 @@ a {
     color: #E5E7EB
 }
 
+.rectangle {
+    height: 120px;
+    width: 240px;
+    font-size: 12px;
+    color: #1F2937;
+    text-align: center;
+    background-color: #387261;
+}
+
 .footer {
     font-size: 12px;
     margin-top: 8px;
