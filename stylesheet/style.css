@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', monospace;
-    /* margin: 0 36px; */
+    margin: 0;
 }
 
 h1, h2, h3 {
@@ -22,7 +22,7 @@ p {
 .topbloc, .footer {
     background-color: #1F2937;
     color: #E5E7EB;
-    padding: 16px 56px; 
+    padding: 16px 64px; 
 }
 
 .link1, .link2 {
@@ -100,10 +100,17 @@ a {
     align-items: center;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    width: 100%;
+    padding: 24px;
+    margin: 48px;
+}
+
 .lastcall {
     background-color: #3882F6;
     border-radius: 8px;
-    margin-top: 48px;
+    margin-top: 24px;
     margin-bottom: 48px;
     max-width: 75%;
     padding: 16px 56px;
