@@ -80,6 +80,13 @@ a {
     padding: 16px 56px;
 }
 
+.lastcall {
+    background-color: #3882F6;
+    border-radius: 16px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
 /* FOOTER BLOC */
 .footer {
     font-size: 12px;
