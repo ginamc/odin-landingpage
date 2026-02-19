@@ -46,6 +46,6 @@ Dark background color
 - Hero
 - Value prop (this is what I'm calling it)
 - Quote
-- CTA
+- [x] CTA
 - [x] Footer
     - Copyright information
