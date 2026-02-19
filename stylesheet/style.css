@@ -15,6 +15,10 @@ h1 {
     line-height: 1em;
 }
 
+p {
+    line-height: 1.5em;
+}
+
 .topbloc, .footer {
     background-color: #1F2937;
     color: #E5E7EB;
@@ -66,6 +70,7 @@ a {
     align-items: center;
     gap: 24px;
     padding-bottom: 32px;
+    color: #F9FAF8;
 }
 
 .herotext {
