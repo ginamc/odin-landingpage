@@ -85,8 +85,16 @@ a {
     border-radius: 16px;
     margin-top: 48px;
     margin-bottom: 48px;
+    max-width: 75%;
     padding: 16px;
     display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.lasthook {
+    display: flex;
+    flex-direction: column;
 }
 
 /* FOOTER BLOC */
