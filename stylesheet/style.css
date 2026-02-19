@@ -32,7 +32,7 @@ ul {
 a {
     text-decoration: none;
     color: #E5E7EB;
-    font-size: 18px;
+    /* font-size: 18px; */
 }
 
 .fakelogo {
@@ -62,13 +62,15 @@ a {
     background-color: #387261;
 }
 
-.button1 {
+.link1 {
     background-color: #3882F6;
+    /* font-size: 16px; */
     font-family: monospace;
     font-weight: 100;
     color: #E5E7EB;
     border-width: 0;
     padding: 8px 16px;
+    border-radius: 4px;
 }
 
 /* MAIN CONTENT BLOC */
