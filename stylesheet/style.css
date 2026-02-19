@@ -105,6 +105,10 @@ a {
     width: 100%;
     padding: 24px;
     margin: 48px;
+    color: #1F2937;
+    font-weight: 300;
+/* - font-size: 36px
+- italcized? */
 }
 
 .lastcall {
