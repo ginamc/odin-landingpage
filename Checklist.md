@@ -43,7 +43,7 @@ Dark background color
 - [x] Header
     - Logo
     - 3 nav link items
-- Hero
+- [x] Hero
 - Value prop (this is what I'm calling it)
 - Quote
 - [x] CTA
