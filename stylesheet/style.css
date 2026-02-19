@@ -5,6 +5,10 @@ body {
     /* margin: 0 36px; */
 }
 
+h1, h2, h3 {
+    margin-bottom: -8px;
+}
+
 .topbloc, .footer {
     background-color: #1F2937;
     color: #E5E7EB;
@@ -101,6 +105,7 @@ a {
 .lasthook {
     display: flex;
     flex-direction: column;
+    color: #F9FAF8;
 }
 
 .link2{
