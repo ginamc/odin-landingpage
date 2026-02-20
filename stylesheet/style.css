@@ -100,6 +100,23 @@ a {
     align-items: center;
 }
 
+.valuebloc {
+    margin: 32px;
+    display: flex;
+}
+
+.valuebox1, .valuebox2, .valuebox3 {
+    height: 120px;
+    width: 120px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.valuetext1, .valuetext2, .valuetext3 {
+    text-align: center;
+}
+
 .quote {
     background-color: #E5E7EB;
     padding: 24px;
